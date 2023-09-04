@@ -1,0 +1,21 @@
+
+.circle1:hover{
+    background: linear-gradient(45deg, #4267B2, #6990de);
+    transition: 0.8s;
+}
+
+.circle2:hover{
+    background: linear-gradient(45deg,#c71610,#bb2b26);
+    transition: 0.8s;
+}
+
+.circle3:hover{
+    background: linear-gradient(45deg, #ff0069, #d300c5, #7638fa );
+    transition: 0.8s;
+
+}
+
+.circle4:hover{
+    background: linear-gradient(45deg, #333, #333, #000 );
+    transition: 0.8s;
+}
